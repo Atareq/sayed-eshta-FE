@@ -1,0 +1,9 @@
+/* Font Family Settings */
+* {
+  font-family: 'Tajawal', system-ui, -apple-system, sans-serif;
+}
+
+/* Display/Headers use Lalezar or Tajawal Black */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lalezar', 'Tajawal', system-ui, sans-serif;
+}
